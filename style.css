@@ -2,3 +2,17 @@ body{
   background: blue;
   color: yellow;
 }  
+
+h1{
+  font-family: monospace;
+  color:aliceblue
+}
+
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: chocolate;
+}
