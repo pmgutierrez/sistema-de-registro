@@ -23,3 +23,9 @@ p{
   font-weight: bold;
   color: yellow;
 }
+
+.caja{
+  background: brown;
+  text-align: center;
+  color: gray;
+}
